@@ -1,0 +1,12 @@
+#include <iostream> 
+using namespace std;
+
+// this is a single comments 
+
+/*
+multi line comments
+*/
+int main() {
+    cout << "Hello World"; 
+    return 0;
+}
